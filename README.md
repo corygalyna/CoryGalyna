@@ -13,7 +13,3 @@ environment. I believe that by valuing and leveraging the strengths of each team
 member, we can achieve our shared goals and deliver successful projects.
 
 Outside of work, I enjoy hiking, traveling, and trying out new recipes.
-
-
-## License
-This project is licensed under [MIT License](LICENSE).
