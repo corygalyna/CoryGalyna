@@ -1,5 +1,5 @@
 # Hi There!
-[![Holloway's Template](artworks/logo-1200x630.svg)](https://github.com/GalynaCory)
+[![Cory Galynas Repositorien](artworks/logo-1200x630.svg)](https://github.com/CoryGalyna)
 
 I am an experienced project manager with a passion for delivering high-quality
 software products. With my expertise in project planning, scheduling, risk
